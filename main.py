@@ -1,4 +1,5 @@
 # Calculadora simple
+print("***************Version mejorada***************")
 print("Selecciona una operación:")
 print("1. Sumar")
 print("2. Restar")
